@@ -1,3 +1,3 @@
 public interface ActionStrategy {
-	public void action(String animal);
+	void action(String animal);
 }

@@ -2,7 +2,7 @@ public class TestMain{
 
 	public static void main(String[] args) {
 		
-		String animal = "Rabbit";
+		String animal = "Dog";
 
 		System.out.println("----------------------------------------");
 		System.out.println("            Patron Strategy             ");
